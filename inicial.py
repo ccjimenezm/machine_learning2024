@@ -10,5 +10,3 @@ TD = np.array([
 ])
 
 total_terms = np.sum(TD)
-
-print(total_terms)
